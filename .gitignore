@@ -1,0 +1,9 @@
+.hgignore
+.nrepl-port
+.gitignore.swp
+.lein*
+
+*.md
+LICENSE
+target/*
+doc/*
