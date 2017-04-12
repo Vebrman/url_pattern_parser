@@ -3,7 +3,7 @@
 .gitignore.swp
 .lein*
 
-*.md
+CHANGELOG.md
 LICENSE
 target/*
 doc/*
